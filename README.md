@@ -175,18 +175,18 @@ The delay between detection and exploitation is significant, emphasizing the nee
 
 ## Author
 
-Mariella Rossi
-Master’s student in Digital Information (LM-91)  </br>
-Focused on cybersecurity, data visualization, and secure systems design.
-
----
-## Contacts 
-
-GitHub: https://github.com/marielllup  </br>
-Email: mariellarossi244@gmail.com
+**Mariella Rossi**  
+Master’s student in Digital Information (LM-91).  
+Interested in web development, data visualization, and digital technologies.
 
 ---
 
-This project is intended for academic and research purposes.
+## Contacts
+
+- GitHub: https://github.com/marielllup  
+- Email: mariellarossi244@gmail.com
+---
+This project was created for educational purposes as part of my portfolio.
 Please do not reuse without attribution.
+
 
