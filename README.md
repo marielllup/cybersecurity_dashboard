@@ -158,7 +158,7 @@ The delay between detection and exploitation is significant, emphasizing the nee
 
 ## 📂 Project Structure
 /project.twbx                  ← Tableau workbook </br>
-/data/                         ← cleaned + raw datasets  </br>
+/datasets/                      ← cleaned + raw datasets  </br>
 /screenshots/                  ← dashboard visuals  </br>
 
 ---
