@@ -159,16 +159,38 @@ The delay between detection and exploitation is significant, emphasizing the nee
 ## 📂 Project Structure
 /project.twbx                  ← Tableau workbook </br>
 /datasets/                      ← cleaned + raw datasets  </br>
-/screenshots/                  ← dashboard visuals  </br>
+/screenshots/                  ← dashboard visuals  </br> 
+
+### Due to the size of the original datasets (NVD global feed + CISA KEV), they are **not included in this repository**.  
+They can be downloaded from the official sources:
+
+- NVD: https://www.kaggle.com/datasets/krooz0/cve-and-cwe-mapping-dataset  
+- CISA KEV: https://www.cisa.gov/known-exploited-vulnerabilities
+
+All transformations, filtering, and cleaning steps are documented in the analysis.
+
+
 
 ---
 
 ## Screenshots
 
 ![Dashboard Overview](./screenshots/overview.png)  </br>
+
+---
+
 ![Attack Vectors](./screenshots/attack_vectors.png)  </br>
+
+---
+
 ![Technical Surfaces](./screenshots/surfaces.png)  </br>
+
+---
+
 ![Exploitation Analysis](./screenshots/exploitation.png)  </br>
+
+---
+
 ![Conclusions Panel](./screenshots/conclusions.png)  </br>
 
 ---
